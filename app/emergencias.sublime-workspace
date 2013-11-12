@@ -1,0 +1,1858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"antecede",
+				"antecedente"
+			],
+			[
+				"Ante",
+				"antecedente"
+			],
+			[
+				"ante",
+				"antecedente"
+			],
+			[
+				"antece",
+				"antecedentes"
+			],
+			[
+				"paciente",
+				"pacienteId"
+			],
+			[
+				"enfer",
+				"enfermedad_id"
+			],
+			[
+				"asistente",
+				"asistenteGrupo"
+			],
+			[
+				"grupo",
+				"grupo_id"
+			],
+			[
+				"selec",
+				"selects"
+			],
+			[
+				"especialidades",
+				"especialidadesRepetidas"
+			],
+			[
+				"especialid",
+				"especialidadesAnalizadas"
+			],
+			[
+				"listEse",
+				"listEspecialidades"
+			],
+			[
+				"Espe",
+				"Especialista"
+			],
+			[
+				"replace",
+				"replaceAll"
+			],
+			[
+				"asisten",
+				"asistentesEspecialidades"
+			],
+			[
+				"especiali",
+				"especialistasSeleccionados"
+			],
+			[
+				"especialista",
+				"especialista_id"
+			],
+			[
+				"asiste",
+				"asistentesGrupo"
+			],
+			[
+				"asis",
+				"asistente"
+			],
+			[
+				"Resi",
+				"ResistenciaHelper"
+			],
+			[
+				"paci",
+				"pacienteId"
+			],
+			[
+				"evalu",
+				"evaluacionId"
+			],
+			[
+				"especia",
+				"especialistaId"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"evaluacion",
+				"evaluacion"
+			],
+			[
+				"evaluac",
+				"evaluacion"
+			],
+			[
+				"espec",
+				"especialistaId"
+			],
+			[
+				"espe",
+				"especialistaId"
+			],
+			[
+				"especialidad",
+				"especialidadId"
+			],
+			[
+				"Asistentes",
+				"AsistentesGrupo"
+			],
+			[
+				"mo",
+				"modulo"
+			],
+			[
+				"Especia",
+				"especialistas"
+			],
+			[
+				"pacien",
+				"pacientesSinCitas"
+			],
+			[
+				"Eval",
+				"EvaluacionPaciente"
+			],
+			[
+				"pulls",
+				"pullsToDel"
+			],
+			[
+				"especialis",
+				"especialista_id"
+			],
+			[
+				"date",
+				"dateCurrentEval"
+			],
+			[
+				"name",
+				"nameField"
+			],
+			[
+				"moda",
+				"modalidades"
+			],
+			[
+				"Audio",
+				"AudiometriaHelper"
+			],
+			[
+				"modalidad",
+				"modalidad-oi"
+			],
+			[
+				"peso",
+				"peso_talla"
+			],
+			[
+				"carac",
+				"caracteristica_id"
+			],
+			[
+				"pacie",
+				"pacienteId"
+			],
+			[
+				"eval",
+				"evaluacionId"
+			],
+			[
+				"eva",
+				"evaluacionId"
+			],
+			[
+				"Eva",
+				"EvaluacionPaciente"
+			],
+			[
+				"crujido_cadera",
+				"crujido_cadera_derecha"
+			],
+			[
+				"historical-crujido_cade",
+				"historical-crujido_cadera_izquierda"
+			],
+			[
+				"historical-crujido",
+				"historical-crujido_columna"
+			],
+			[
+				"historical-crujido_rodilla",
+				"historical-crujido_rodilla_izquierda"
+			],
+			[
+				"valor",
+				"valorLejos"
+			],
+			[
+				"muni",
+				"municipioId"
+			],
+			[
+				"diagno",
+				"diagnosticoTotal"
+			],
+			[
+				"evaluaci",
+				"evaluaciones"
+			],
+			[
+				"list",
+				"listEvaluaciones"
+			],
+			[
+				"apelli",
+				"apellido2"
+			],
+			[
+				"apellido",
+				"apellido1"
+			],
+			[
+				"Evaluac",
+				"Evaluacion"
+			],
+			[
+				"registr",
+				"registroBlanco"
+			],
+			[
+				"total",
+				"totalRegistros"
+			],
+			[
+				"regi",
+				"registroBlanco"
+			],
+			[
+				"clas",
+				"claseCentro"
+			],
+			[
+				"evaluacione",
+				"evaluacionesPacientes"
+			],
+			[
+				"evalua",
+				"evaluacionesPacientes"
+			],
+			[
+				"cita",
+				"cita_id"
+			],
+			[
+				"nombre",
+				"nombreEmpresa"
+			],
+			[
+				"Evaluaco",
+				"EvaluacionPaciente"
+			],
+			[
+				"max",
+				"maxPacientesGrupo"
+			],
+			[
+				"evaluacio",
+				"evaluacionId"
+			],
+			[
+				"Es",
+				"Especialidad"
+			],
+			[
+				"salta",
+				"saltabilidad"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"ut",
+				"utf8_decode"
+			],
+			[
+				"odon",
+				"_odontologia_institucional"
+			],
+			[
+				"nutri",
+				"_nutricion_institucional"
+			],
+			[
+				"evala",
+				"evaluacionesId"
+			],
+			[
+				"fuerza",
+				"_fuerza_institucional"
+			],
+			[
+				"resis",
+				"_resistencia_institucional"
+			],
+			[
+				"psicolo",
+				"_psicologia_institucional"
+			],
+			[
+				"optome",
+				"_optometria_institucional"
+			],
+			[
+				"fonoaudio",
+				"_fonoaudiologia_institucional"
+			],
+			[
+				"fisio",
+				"fisioterapia_personal"
+			],
+			[
+				"medicina",
+				"medicina_general"
+			],
+			[
+				"role",
+				"roleResponsable"
+			],
+			[
+				"responsable",
+				"responsableId"
+			],
+			[
+				"evaluaciones",
+				"evaluacionesId"
+			],
+			[
+				"frecuen",
+				"frecuencia"
+			],
+			[
+				"fecha",
+				"fecha_inicial"
+			],
+			[
+				"Odono",
+				"OdontologiaHelper"
+			],
+			[
+				"Evalaci",
+				"EvaluacionPaciente"
+			],
+			[
+				"Evalu",
+				"EvaluacionPaciente"
+			],
+			[
+				"pa",
+				"pacienteId"
+			],
+			[
+				"modulo",
+				"moduloId"
+			],
+			[
+				"fore",
+				"foreach	foreach …"
+			],
+			[
+				"E",
+				"Especialidad"
+			],
+			[
+				"Reporte",
+				"ReporteFonoaudiologiaPersonal"
+			],
+			[
+				"Compara",
+				"Comparative1"
+			],
+			[
+				"do",
+				"dowload"
+			],
+			[
+				"down",
+				"downnload"
+			],
+			[
+				"Evalac",
+				"EvaluacionPaciente"
+			],
+			[
+				"evalac",
+				"evaluacion"
+			],
+			[
+				"repor",
+				"reportRender"
+			],
+			[
+				"Re",
+				"ResultadosPaciente"
+			],
+			[
+				"showE",
+				"showRequest"
+			],
+			[
+				"medici",
+				"medicina-general"
+			],
+			[
+				"bt",
+				"bt	CakePHP: $belongsTo = array()"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"Evala",
+				"EvaluacionPaciente"
+			],
+			[
+				"pu",
+				"pullId"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"rol",
+				"role_id"
+			],
+			[
+				"resposa",
+				"responsableId"
+			],
+			[
+				"respo",
+				"responsableId"
+			],
+			[
+				"Resposa",
+				"ResponsableError"
+			],
+			[
+				"ero",
+				"errors"
+			],
+			[
+				"empresa",
+				"empresa_id"
+			],
+			[
+				"respon",
+				"responsables"
+			],
+			[
+				"res",
+				"responsables"
+			],
+			[
+				"Evaluacion",
+				"EvaluacionPaciente"
+			],
+			[
+				"estado",
+				"estadosPadres"
+			],
+			[
+				"Paci",
+				"PacienteTest"
+			],
+			[
+				"Pa",
+				"PacienteTest"
+			],
+			[
+				"corda",
+				"cordalesSinErupcionar"
+			],
+			[
+				"diente",
+				"dientesFila4"
+			],
+			[
+				"dientes",
+				"dientesFila1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<!--\n    Licensed to the Apache Software Foundation (ASF) under one\n    or more contributor license agreements.  See the NOTICE file\n    distributed with this work for additional information\n    regarding copyright ownership.  The ASF licenses this file\n    to you under the Apache License, Version 2.0 (the\n    \"License\"); you may not use this file except in compliance\n    with the License.  You may obtain a copy of the License at\n\n    http://www.apache.org/licenses/LICENSE-2.0\n\n    Unless required by applicable law or agreed to in writing,\n    software distributed under the License is distributed on an\n    \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY\n     KIND, either express or implied.  See the License for the\n    specific language governing permissions and limitations\n    under the License.\n-->\n<html>\n    <head>\n        <meta charset=\"utf-8\" />\n        <meta name=\"format-detection\" content=\"telephone=no\" />\n        <meta name=\"viewport\" content=\"user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi\" />\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"css/index.css\" />\n        <title>Hello World</title>\n    </head>\n    <body>\n        <div class=\"app\">\n            <h1>PhoneGap</h1>\n            <div id=\"deviceready\" class=\"blink\">\n                <p class=\"event listening\">Connecting to Device</p>\n                <p class=\"event received\">Device is Ready</p>\n            </div>\n        </div>\n        <script type=\"text/javascript\" src=\"phonegap.js\"></script>\n        <script type=\"text/javascript\" src=\"js/index.js\"></script>\n        <script type=\"text/javascript\">\n            app.initialize();\n        </script>\n    </body>\n</html>\n",
+			"file": "www/index.html",
+			"file_size": 1773,
+			"file_write_time": 130270312041307157,
+			"settings":
+			{
+				"buffer_size": 1773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/emergencias/index.html",
+			"settings":
+			{
+				"buffer_size": 4487,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"twi",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"tw",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"report",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"conso",
+				"Set Syntax: R Console"
+			]
+		],
+		"width": 456.0
+	},
+	"console":
+	{
+		"height": 160.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/emergencias/index.html.txt",
+		"/C/xampp/htdocs/emergencias/app/www/config.xml",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Elements/top_menu_auxiliar.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/apuntadorEvaluacion.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/nutricion.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/custom.scripts.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/AntecedentesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/audiometria.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/fuerza.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/fisioterapia2.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/fonoaudiologia.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/medicina_general.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/odontologia.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/optometria.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/psicologia.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/resistencia.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/saltabilidad.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/velocidad.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/Component/AclFilterComponent.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/GruposController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Grupos/admin_edita.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/asistentes.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/EvaluacionPacientesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Antecedente.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/EvaluacionPacientes/apuntador_registra.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/css/custom.css",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/css/base.css",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/medicina_general.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Citas/admin_registra.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Actividad.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Layouts/especialista_menu.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/EnfermedadesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Enfermedades/admin_edita.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Enfermedad.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Enfermedades/admin_registra.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Enfermedades/admin_lista.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/enfermedades.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Layouts/admin.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Elements/action_admin.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Elements/menu.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Enfermedades/admin_view.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/evaluacionPacientes.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Layouts/apuntador.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/ApuntadoresController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Grupos/admin_view.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/AsistentesGrupo.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Pull.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Especialista.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Grupos/admin_registra.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/ReportesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/paciente_resultados.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/resultados_pacientes.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/paciente_comparativo_lightbox.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Reporte.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/EvaluacionPaciente.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/ConsultasController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/velocidad_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/velocidad_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/saltabilidad_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/saltabilidad_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/resistencia_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/resistencia_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/psicologia_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/psicologia_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/optometria_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/optometria_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/odontologia_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/odontologia_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/nutricion_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/nutricion_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/medicina_general_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/medicina_general_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fuerza_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fuerza_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fonoaudiologia_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fonoaudiologia_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fisioterapia_personal_comp2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/fisioterapia_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/nutricion_personal.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/paciente_nutricion_personal_comp1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Reportes/nutricion_institucional.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/libs/highcharts/highcharts.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/velocidad.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/odontologia.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/odontologia_lightbox.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/resistencia.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/fisioterapia2.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/fonoaudiologia.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/optometria.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/psicologia.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/especialista_psicologia.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Grupo.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Cita.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Console/Command/AppShell.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/PagesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Pages/asistente_home.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/UsersController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Layouts/especialista.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Evaluacion.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Asistente.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Controller/AsistentesController.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Asistentes/admin_registra.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Asistentes/admin_edita.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Asistentes/admin_lista.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Asistentes/admin_view.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Config/bootstrap.php",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/grupos.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/Model/Caracteristica.php",
+		"/C/Users/w/Documents/scripts postgres/crear tabla posgresql.sql",
+		"/C/xampp/htdocs/previserd/aplicacion/app/View/Consultas/especialista_fisioterapia1.tpl",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/fisioterapia1.js",
+		"/C/xampp/php/php.ini",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/css/utils.css",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/evaluaciones.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/citas.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/paises.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/municipios.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/especialidades.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/deportes.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/eps.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/escolaridades.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/categorias.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/modulos.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/supercaracteristicas.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/caracteristicas.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/especialistas.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/apuntadores.js",
+		"/C/xampp/htdocs/previserd/aplicacion/app/webroot/js/helpers/responsables.js"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\webroot\\js",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\Plugin\\HighCharts",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\Plugins\\HighCharts",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\webroot\\js",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\webroot\\js",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app\\webroot",
+			"C:\\xampp\\htdocs\\previserd\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\sipex\\branches\\dev\\app",
+			"C:\\xampp\\htdocs\\sipex\\branches\\dev\\app\\views",
+			"C:\\xampp\\htdocs\\sipex\\branches\\dev\\app",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\sipex\\branches\\dev\\app",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\sipex\\branches\\dev\\app",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app\\View",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app\\webroot\\js",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app\\Controllers,C:\\xampp\\htdocs\\enersinc\\aplicacion\\app\\Controller",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app\\Controllers",
+			"C:\\xampp\\htdocs\\enersinc\\aplicacion\\app"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"java",
+			";",
+			"128",
+			"enfermedadPersonal",
+			"enfermedad",
+			"div",
+			"parseJSON",
+			"CodigoSelecto.",
+			"CodigoSelecto",
+			"ajax",
+			"showhistory",
+			"actividad",
+			"$actividad",
+			"$actividades",
+			"Actividad",
+			"Actividades",
+			"peso",
+			"Actividad",
+			"antecedentePersonal",
+			"one-fourth",
+			"BtnCabeza",
+			"BtnFrecuenciaCardiaca",
+			"Antecedente",
+			"MedicinaGeneral",
+			"cabeza",
+			".remove-asistente-grupo",
+			"action-delete",
+			"delete",
+			"especialistas",
+			"especialidadesRepetidas",
+			"_params_reporte",
+			"getConsulta",
+			"container",
+			"_velocidad_personal",
+			"container_somatocarta1",
+			"container_composicion1",
+			"container_riesgo1",
+			"container_imc1",
+			"container_peso1",
+			"container_estatura1",
+			"container_composicion",
+			"container_somatocarta",
+			"container_riesgo",
+			"container_imc",
+			"container_peso",
+			"container_estatura1",
+			"width",
+			"container_estatura",
+			"contador",
+			"container_estatura",
+			"ReporteTituloReporte",
+			"Comparativo",
+			"one-five",
+			"$id",
+			"_odontologia",
+			"ConsultaEspecialista",
+			"ConsultaEspecialistaOdontologiaLightboxForm",
+			"odontograma",
+			"updateSta",
+			"_resistencia",
+			"_medicina_general",
+			"pa",
+			"_fisioterapia2",
+			"_fonoaudiologia",
+			"materiales",
+			"_saltabilidad",
+			"info-title",
+			"></",
+			"value",
+			"user",
+			"AsistentesGrupo.",
+			"Pull",
+			"getCitas",
+			"Pull",
+			"pulls",
+			"Apuntador",
+			"apuntadores",
+			"Apuntador",
+			"apuntador",
+			"Apuntador",
+			"Apuntadore",
+			"apuntadores",
+			"Apuntador",
+			"Apuntadores",
+			"Apuntador",
+			"Apuntadores",
+			"apuntadores",
+			"apuntador",
+			"Apuntador",
+			"apuntadores",
+			"Apuntadores",
+			"apuntador",
+			"Apuntador",
+			"Fisioterapia1",
+			"fisioterapia1",
+			"saltabilidad",
+			"fisioterapia1",
+			"fisioterapia1sa",
+			"fisioterapia1",
+			"fisioterapia1s",
+			"especialista_saltabilidad",
+			"fisioterapia1",
+			"skip-links",
+			"skiplink",
+			"phpunit",
+			"path",
+			"eliminaEvaluacion",
+			"save",
+			"$this->log",
+			"consultas",
+			"function getConsulta",
+			"$this->log",
+			"getConsulta",
+			"nutricion_personal",
+			"sexo",
+			"taner",
+			"width",
+			"getHistorico",
+			"$evaluacionId",
+			"getHistorico",
+			"getHistory",
+			"250",
+			"97",
+			"6000",
+			"10",
+			"4000",
+			"96",
+			"3000"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BtnAntecedentes",
+			"BtnInformacionGeneral",
+			"informacion-general",
+			"Asistente",
+			"asistentes",
+			"Asistente",
+			"asistente",
+			"Asistente",
+			"asistentes",
+			"Asistente",
+			"Asistentes",
+			"Asistente",
+			"Asistentes",
+			"asistentes",
+			"Asistente",
+			"asistentes",
+			"Asistentes",
+			"Asistente",
+			"asistente",
+			"Asistente",
+			"Saltabilidad",
+			"saltabilidad",
+			"'",
+			"peso-talla",
+			"observacion_fonoaudiologia",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"private function",
+			"public function",
+			"Velocidad",
+			"velocidad",
+			"velocidades",
+			"Saltabilidad",
+			"ConsultaSaltabilidadForm",
+			"SaltabilidadHelper",
+			"saltabilidad",
+			"saltabilidades",
+			"saltabilidad",
+			"ConsultaFuerzaForm",
+			"FuerzaHelper",
+			"Fuerza",
+			"fuerzas",
+			"ReporteResistenciaPersonal",
+			"updateReport",
+			"ReporteFuerzaPersonal",
+			"ReporteFisioterapiaPersonal",
+			"ReporteFonoaudiologiaPersonal",
+			"ReporteOdontologiaPersonal",
+			"ReporteVelocidadPersonal",
+			"resultados_fisioterapia",
+			"ResultadosPaciente",
+			"responsableId",
+			"Responsable",
+			"apuntadorRoleId",
+			"$apuntadorRoleId",
+			"Apuntador",
+			"especialistaRoleId",
+			"ResponsableAdminRegistraForm",
+			"registrarResponsable",
+			"EvaluacionRegistraForm",
+			"Responsable",
+			"responsables",
+			"evaluacionPaciente",
+			"Evaluación Paciente",
+			"EvaluacionPacienteApuntadorRegistraForm",
+			"EvaluacionHelper",
+			"EvaluacionPacienteRegistraForm",
+			"EvaluacionHelper",
+			"evaluacionPacientes",
+			"evaluacionPaciente",
+			"evaluacionPacientes",
+			"evaluacionPaciente",
+			"evaluacionPacientes",
+			"EvaluacionPaciente",
+			"Evaluacion Paciente",
+			"evaluacionPacientes",
+			"EvaluacionPaciente",
+			"EvaluacionPacientes",
+			"apellidos",
+			"nombres",
+			"apuntadorId",
+			"Apuntador",
+			"apuntadores",
+			"responsables",
+			"Responsable",
+			"Responsables",
+			"responsables",
+			"Responsable",
+			"responsables",
+			"Responsable",
+			"responsables",
+			"Responsable",
+			"responsables",
+			"Responsable",
+			"Responsables",
+			"apuntadores",
+			"Apuntador",
+			"apuntadores",
+			"Apuntador",
+			"apuntadores",
+			"Apuntador",
+			"apuntador.Apuntador",
+			"Apuntador",
+			"apuntadores",
+			"Apuntadores",
+			"Responsable",
+			"Apuntador"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/index.html",
+					"settings":
+					{
+						"buffer_size": 1773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1421,
+								1423
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/emergencias/index.html",
+					"settings":
+					{
+						"buffer_size": 4487,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1215,
+								1215
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"view/eleme/adm",
+				"app/View/Elements/action_admin.tpl"
+			],
+			[
+				"contro/antece",
+				"app/Controller/AntecedentesController.php"
+			],
+			[
+				"web/js/custom",
+				"app/webroot/js/custom.scripts.js"
+			],
+			[
+				"web/js/nutri",
+				"app/webroot/js/helpers/nutricion.js"
+			],
+			[
+				"web/js/apunta",
+				"app/webroot/js/helpers/apuntadorEvaluacion.js"
+			],
+			[
+				"view/elemen/topme",
+				"app/View/Elements/top_menu_auxiliar.tpl"
+			],
+			[
+				"contro/compo/acl",
+				"app/Controller/Component/AclFilterComponent.php"
+			],
+			[
+				"web/js/medicina",
+				"app/webroot/js/helpers/medicina_general.js"
+			],
+			[
+				"view/consul/medicina",
+				"app/View/Consultas/medicina_general.tpl"
+			],
+			[
+				"web/css/base",
+				"app/webroot/css/base.css"
+			],
+			[
+				"web/css/custom",
+				"app/webroot/css/custom.css"
+			],
+			[
+				"view/enferme/lis",
+				"app/View/Enfermedades/admin_lista.tpl"
+			],
+			[
+				"view/enferme/regis",
+				"app/View/Enfermedades/admin_registra.tpl"
+			],
+			[
+				"model/enfermedad",
+				"app/Model/Enfermedad.php"
+			],
+			[
+				"view/enfermedades",
+				"app/View/Enfermedades/admin_edita.tpl"
+			],
+			[
+				"web/js/enfer",
+				"app/webroot/js/helpers/enfermedades.js"
+			],
+			[
+				"view/enfermen",
+				"app/View/Enfermedades/admin_lista.tpl"
+			],
+			[
+				"view/eleme/actio",
+				"app/View/Elements/action_admin.tpl"
+			],
+			[
+				"view/menu",
+				"app/View/Elements/menu.tpl"
+			],
+			[
+				"view/admin",
+				"app/View/Layouts/admin.tpl"
+			],
+			[
+				"view/enfermedades/",
+				"app/View/Enfermedades/admin_edita.tpl"
+			],
+			[
+				"contro/enfer",
+				"app/Controller/EnfermedadesController.php"
+			],
+			[
+				"view/consulta/medicia",
+				"app/View/Consultas/medicina_general.tpl"
+			],
+			[
+				"/help/apuntadoreva",
+				"app/webroot/js/helpers/apuntadorEvaluacion.js"
+			],
+			[
+				"web/helper/medici",
+				"app/webroot/js/helpers/medicina_general.js"
+			],
+			[
+				"web/js/helper/evalpac",
+				"app/webroot/js/helpers/evaluacionPacientes.js"
+			],
+			[
+				"consulta/",
+				"app/View/Consultas/medicina_general.tpl"
+			],
+			[
+				"especialista_men",
+				"app/View/Layouts/especialista_menu.tpl"
+			],
+			[
+				"layout/apuntador",
+				"app/View/Layouts/apuntador.tpl"
+			],
+			[
+				"view/evalpacientes/re",
+				"app/View/EvaluacionPacientes/apuntador_registra.tpl"
+			],
+			[
+				"contro/evalpaci",
+				"app/Controller/EvaluacionPacientesController.php"
+			],
+			[
+				"controller/apuntador",
+				"app/Controller/ApuntadoresController.php"
+			],
+			[
+				"web/js/asis",
+				"app/webroot/js/helpers/asistentes.js"
+			],
+			[
+				"view/grupos/edita",
+				"app/View/Grupos/admin_edita.tpl"
+			],
+			[
+				"model/asistentesgru",
+				"app/Model/AsistentesGrupo.php"
+			],
+			[
+				"model/pull",
+				"app/Model/Pull.php"
+			],
+			[
+				"view/grupos/view",
+				"app/View/Grupos/admin_view.tpl"
+			],
+			[
+				"contro/grupos",
+				"app/Controller/GruposController.php"
+			],
+			[
+				"view/grupos/registra",
+				"app/View/Grupos/admin_registra.tpl"
+			],
+			[
+				"model/especialista",
+				"app/Model/Especialista.php"
+			],
+			[
+				"model/evaluacion",
+				"app/Model/EvaluacionPaciente.php"
+			],
+			[
+				"contro/consulta",
+				"app/Controller/ConsultasController.php"
+			],
+			[
+				"model/reporte",
+				"app/Model/Reporte.php"
+			],
+			[
+				"controll/reportes",
+				"app/Controller/ReportesController.php"
+			],
+			[
+				"view/reporte/nutri",
+				"app/View/Reportes/nutricion_personal.tpl"
+			],
+			[
+				"reportes/nutri",
+				"app/View/Reportes/nutricion_institucional.tpl"
+			],
+			[
+				"view/reportes/compa",
+				"app/View/Reportes/paciente_comparativo_lightbox.tpl"
+			],
+			[
+				"helpers/resultados_pacientes",
+				"app/webroot/js/helpers/resultados_pacientes.js"
+			],
+			[
+				"contro/repor",
+				"app/Controller/ReportesController.php"
+			],
+			[
+				"view/reportes/paci",
+				"app/View/Reportes/paciente_resultados.tpl"
+			],
+			[
+				"web/css/cus",
+				"app/webroot/css/custom.css"
+			],
+			[
+				"web/js/veloci",
+				"app/webroot/js/helpers/velocidad.js"
+			],
+			[
+				"view/con/velo",
+				"app/View/Consultas/velocidad.tpl"
+			],
+			[
+				"view/con/odon",
+				"app/View/Consultas/odontologia_lightbox.tpl"
+			],
+			[
+				"web/js/odono",
+				"app/webroot/js/helpers/odontologia.js"
+			],
+			[
+				"view/cons/odon",
+				"app/View/Consultas/odontologia.tpl"
+			],
+			[
+				"web/js/resis",
+				"app/webroot/js/helpers/resistencia.js"
+			],
+			[
+				"view/con/resis",
+				"app/View/Consultas/resistencia.tpl"
+			],
+			[
+				"web/js/medici",
+				"app/webroot/js/helpers/medicina_general.js"
+			],
+			[
+				"view/consu/medici",
+				"app/View/Consultas/medicina_general.tpl"
+			],
+			[
+				"web/js/fisio",
+				"app/webroot/js/helpers/fisioterapia2.js"
+			],
+			[
+				"view/cons/fisio",
+				"app/View/Consultas/fisioterapia2.tpl"
+			],
+			[
+				"web/js/fonoa",
+				"app/webroot/js/helpers/fonoaudiologia.js"
+			],
+			[
+				"view/consul/fono",
+				"app/View/Consultas/fonoaudiologia.tpl"
+			],
+			[
+				"web/js/optometr",
+				"app/webroot/js/helpers/optometria.js"
+			],
+			[
+				"view/consu/optome",
+				"app/View/Consultas/optometria.tpl"
+			],
+			[
+				"web/js/psicolo",
+				"app/webroot/js/helpers/psicologia.js"
+			],
+			[
+				"web/js/nutricio",
+				"app/webroot/js/helpers/nutricion.js"
+			],
+			[
+				"view/consu/psicolo",
+				"app/View/Consultas/psicologia.tpl"
+			],
+			[
+				"contro/users",
+				"app/Controller/UsersController.php"
+			],
+			[
+				"view/pages/asis",
+				"app/View/Pages/asistente_home.tpl"
+			],
+			[
+				"contro/pages",
+				"app/Controller/PagesController.php"
+			],
+			[
+				"view/layout",
+				"app/View/Layouts/especialista.tpl"
+			],
+			[
+				"contro/consult",
+				"app/Controller/ConsultasController.php"
+			],
+			[
+				"componen/acl",
+				"app/Controller/Component/AclFilterComponent.php"
+			],
+			[
+				"model/cita",
+				"app/Model/Cita.php"
+			],
+			[
+				"model/grupo",
+				"app/Model/Grupo.php"
+			],
+			[
+				"model/asistente",
+				"app/Model/Asistente.php"
+			],
+			[
+				"view/grupo/edita",
+				"app/View/Grupos/admin_edita.tpl"
+			],
+			[
+				"controller/grupos",
+				"app/Controller/GruposController.php"
+			],
+			[
+				"web/js/hel/grupos",
+				"app/webroot/js/helpers/grupos.js"
+			],
+			[
+				"eleme/admin",
+				"app/View/Elements/action_admin.tpl"
+			],
+			[
+				"model/",
+				"app/Model/Caracteristica.php"
+			],
+			[
+				"boos",
+				"app/Config/bootstrap.php"
+			],
+			[
+				"view/consulta/fisio",
+				"app/View/Consultas/especialista_fisioterapia1.tpl"
+			],
+			[
+				"web/js/paciente",
+				"app/webroot/js/helpers/pacientes.js"
+			],
+			[
+				"web/js/responsable",
+				"app/webroot/js/helpers/responsables.js"
+			],
+			[
+				"web/js/empresas",
+				"app/webroot/js/helpers/empresas.js"
+			],
+			[
+				"web/js/apuntado",
+				"app/webroot/js/helpers/apuntadores.js"
+			],
+			[
+				"web/js/especialistas",
+				"app/webroot/js/helpers/especialistas.js"
+			],
+			[
+				"web/js/especialidad",
+				"app/webroot/js/helpers/especialidades.js"
+			],
+			[
+				"web/js/especi",
+				"app/webroot/js/helpers/especialidades.js"
+			],
+			[
+				"web/js/cata",
+				"app/webroot/js/helpers/caracteristicas.js"
+			],
+			[
+				"contro/super",
+				"app/Controller/SuperCaracteristicasController.php"
+			],
+			[
+				"web/js/superca",
+				"app/webroot/js/helpers/supercaracteristicas.js"
+			],
+			[
+				"web/js/modulos",
+				"app/webroot/js/helpers/modulos.js"
+			],
+			[
+				"web/js/categori",
+				"app/webroot/js/helpers/categorias.js"
+			],
+			[
+				"web/js/esco",
+				"app/webroot/js/helpers/escolaridades.js"
+			],
+			[
+				"web/js/eps",
+				"app/webroot/js/helpers/eps.js"
+			],
+			[
+				"web/js/deportes",
+				"app/webroot/js/helpers/deportes.js"
+			],
+			[
+				"web/js/enferme",
+				"app/webroot/js/helpers/enfermedades.js"
+			],
+			[
+				"web/js/municip",
+				"app/webroot/js/helpers/municipios.js"
+			],
+			[
+				"web/js/pais",
+				"app/webroot/js/helpers/paises.js"
+			],
+			[
+				"web/js/citas",
+				"app/webroot/js/helpers/citas.js"
+			],
+			[
+				"web/js/grupos",
+				"app/webroot/js/helpers/grupos.js"
+			],
+			[
+				"web/js/evaluac",
+				"app/webroot/js/helpers/evaluacionPacientes.js"
+			],
+			[
+				"web/js/evaluacio",
+				"app/webroot/js/helpers/evaluaciones.js"
+			],
+			[
+				"web/js/munici",
+				"app/webroot/js/helpers/municipios.js"
+			],
+			[
+				"web/js/paiss",
+				"app/webroot/js/helpers/paises.js"
+			],
+			[
+				"web/js/evaluacion",
+				"app/webroot/js/helpers/evaluaciones.js"
+			],
+			[
+				"helpers/nutricion",
+				"app/webroot/js/helpers/nutricion.js"
+			],
+			[
+				"view/consulta/nutrici",
+				"app/View/Consultas/especialista_nutricion.tpl"
+			],
+			[
+				"model/evalua",
+				"app/Model/Evaluacion.php"
+			],
+			[
+				"web/js/grupo",
+				"app/webroot/js/helpers/grupos.js"
+			],
+			[
+				"contro/evaluac",
+				"app/Controller/EvaluacionPacientesController.php"
+			],
+			[
+				"web/js/evalu",
+				"app/webroot/js/helpers/evaluaciones.js"
+			],
+			[
+				"web/js/evaluaci",
+				"app/webroot/js/helpers/evaluacionPacientes.js"
+			],
+			[
+				"model/paciente",
+				"app/Model/Paciente.php"
+			],
+			[
+				"control/grupo",
+				"app/Controller/GruposController.php"
+			],
+			[
+				"helpers/nutric",
+				"app/webroot/js/helpers/nutricion.js"
+			],
+			[
+				"contro/paciente",
+				"app/Controller/PacientesController.php"
+			],
+			[
+				"view/consulta/nutri",
+				"app/View/Consultas/especialista_nutricion.tpl"
+			],
+			[
+				"model/consulta",
+				"app/Model/Consulta.php"
+			],
+			[
+				"modelcita",
+				"app/tmp/cache/models/myapp_cake_model_default_citas"
+			],
+			[
+				"model/evaluaciopaciente",
+				"app/Model/EvaluacionPaciente.php"
+			],
+			[
+				"helpers/medicina_general",
+				"app/webroot/js/helpers/medicina_general.js"
+			],
+			[
+				"view/consulta/medicina",
+				"app/View/Consultas/especialista_medicina_general.tpl"
+			],
+			[
+				"contro/reporte",
+				"app/Controller/ReportesController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}

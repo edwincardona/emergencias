@@ -1,0 +1,1727 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toSaveAsistEspecial"
+			],
+			[
+				"tr",
+				"trigger"
+			],
+			[
+				"Asistente",
+				"AsistenteGrupo1"
+			],
+			[
+				"Helper",
+				"AudiometriaHelper"
+			],
+			[
+				"evaluaci",
+				"evaluacionId"
+			],
+			[
+				"evaluac",
+				"evaluacionId"
+			],
+			[
+				"especi",
+				"especialistaId"
+			],
+			[
+				"especialista",
+				"especialistaId"
+			],
+			[
+				"espealista",
+				"especialistaId"
+			],
+			[
+				"especialis",
+				"especialistaId"
+			],
+			[
+				"crea",
+				"crearPull"
+			],
+			[
+				"esp",
+				"especialistasAgregar"
+			],
+			[
+				"grupo",
+				"grupo_id"
+			],
+			[
+				"espe",
+				"especialistaId"
+			],
+			[
+				"especili",
+				"especialistasAprobados"
+			],
+			[
+				"especialistas",
+				"especialistasSeleccionados"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"current",
+				"current_lugar_id"
+			],
+			[
+				"curre",
+				"current_lugar_id"
+			],
+			[
+				"info",
+				"info_view"
+			],
+			[
+				"spa",
+				"span4"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"seccion",
+				"seccionId"
+			],
+			[
+				"tipo",
+				"tipo_lugar"
+			],
+			[
+				"Add",
+				"AddTipoLugar"
+			],
+			[
+				"Tipo",
+				"TipoLugares"
+			],
+			[
+				"li",
+				"listOpts"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"new",
+				"new_marker"
+			],
+			[
+				"clic",
+				"clickStatus"
+			],
+			[
+				"sub",
+				"SubmitAgregarLugar"
+			],
+			[
+				"cli",
+				"clickStatus"
+			],
+			[
+				"initialize",
+				"initialized"
+			],
+			[
+				"sort",
+				"sort_score"
+			],
+			[
+				"cursos",
+				"cursosConvocados"
+			],
+			[
+				"link",
+				"linkAction"
+			],
+			[
+				"extra",
+				"extraProyecto"
+			],
+			[
+				"relacion",
+				"relacion_universidad"
+			],
+			[
+				"tema",
+				"tema_interes"
+			],
+			[
+				"ed",
+				"educontinua"
+			],
+			[
+				"la",
+				"layout"
+			],
+			[
+				"tele",
+				"telemercaderista"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"proyecto",
+				"proyecto_id"
+			],
+			[
+				"Confere",
+				"ConferencistasProyecto"
+			],
+			[
+				"Con",
+				"ConferencistasProyecto"
+			],
+			[
+				"proyect",
+				"proyectosConferencista"
+			],
+			[
+				"proye",
+				"proyectosConferencista"
+			],
+			[
+				"departamento",
+				"departamento_id"
+			],
+			[
+				"Se",
+				"Seguimiento"
+			],
+			[
+				"Ciudad",
+				"CiudadId"
+			],
+			[
+				"Departame",
+				"DepartamentoId"
+			],
+			[
+				"depart",
+				"departamentosJSON"
+			],
+			[
+				"email",
+				"email_personal"
+			],
+			[
+				"ciudad",
+				"ciudad_id"
+			],
+			[
+				"data",
+				"dataOrganizaciones"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"name",
+				"name_interfaz"
+			],
+			[
+				"num",
+				"numParams"
+			],
+			[
+				"params",
+				"params-line"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/custom-map.js",
+			"settings":
+			{
+				"buffer_size": 1911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/controller.js",
+			"settings":
+			{
+				"buffer_size": 572,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/custom.css",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 117.0,
+		"selected_items":
+		[
+			[
+				"upgrade",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htm",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/index.html",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/js/controllers.js",
+		"/C/Users/w/Downloads/index (2).php",
+		"/C/xampp/htdocs/drupal7/sites/all/themes/bootstrap/bootstrap.info",
+		"/C/xampp/htdocs/drupal7/sites/all/themes/bootstrap/css/overrides2.css",
+		"/C/xampp/htdocs/drupal7/sites/all/themes/bootstrap/bootstrap_subtheme/css/style2.css",
+		"/C/xampp/htdocs/previserd_prod/aplicacion/app/Config/database.php",
+		"/C/Users/w/Documents/enersinc/backups data app/nuevas tablas y finciones/DataDBTask_NC.html",
+		"/C/Users/w/Desktop/1.txt",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/config/karma-e2e.conf.js",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/config/karma.conf.js",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/index-async.html",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/js/services.js",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/js/filters.js",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/js/directives.js",
+		"/C/Users/w/Documents/GitHub/angular-phonecat/app/js/app.js",
+		"/var/www/previserd/aplicacion/app/Controller/ConsultasController.php",
+		"/var/www/previserd/aplicacion/app/View/Grupos/admin_edita.tpl",
+		"/var/www/previserd/aplicacion/app/Controller/PagesController.php",
+		"/var/www/previserd/aplicacion/app/Config/core.php",
+		"/var/www/previserd/aplicacion/app/webroot/js/custom.scripts.js",
+		"/var/www/previserd/aplicacion/app/webroot/css/base.css",
+		"/var/www/previserd/aplicacion/app/webroot/css/custom.css",
+		"/var/www/previserd/aplicacion/app/Controller/GruposController.php",
+		"/var/www/previserd/aplicacion/app/View/Consultas/nutricion.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/nutricion.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/saltabilidad.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/saltabilidad.js",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/audiometria.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/audiometria.tpl",
+		"/var/www/previserd/aplicacion/app/Controller/Component/AclFilterComponent.php",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_psicologia.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/psicologia.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_nutricion.tpl",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_optometria.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/optometria.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_odontologia.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/odontologia.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_medicina_general.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/medicina_general.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_fonoaudiologia.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/fonoaudiologia.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_fisioterapia2.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/fisioterapia2.js",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_fisioterapia1.tpl",
+		"/var/www/previserd/aplicacion/app/View/Consultas/especialista_audiometria.tpl",
+		"/var/www/previserd/aplicacion/app/View/Grupos/admin_registra.tpl",
+		"/var/www/previserd/aplicacion/app/Model/Especialista.php",
+		"/var/www/previserd/aplicacion/app/Model/Cita.php",
+		"/var/www/previserd/aplicacion/app/Model/Grupo.php",
+		"/var/www/previserd/aplicacion/app/Model/Especialidad.php",
+		"/var/www/previserd/aplicacion/app/View/Layouts/admin.tpl",
+		"/var/www/previserd/aplicacion/app/webroot/js/helpers/empresas.js",
+		"/var/www/pueblo/wp-content/themes/adapt/functions.php",
+		"/var/www/pueblo/wp-content/themes/adapt/single.php",
+		"/var/www/pueblo/wp-includes/js/jquery/ui/jquery-ui.js",
+		"/var/www/pueblo/wp-content/plugins/carousel-without-jetpack/jetpack-carousel.css",
+		"/var/www/pueblo/wp-content/themes/adapt/style.css",
+		"/var/www/pueblo/wp-includes/pomo/translations.php",
+		"/var/www/pueblo/wp-includes/css/media-views-rtl.css",
+		"/var/www/pueblo/wp-includes/css/admin-bar-rtl.css",
+		"/var/www/zoomin/client/libs/jquery.validate.min.js",
+		"/home/juandelacosa/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/var/www/zoomin/client/info-view.html",
+		"/var/www/zoomin/client/zoomin.html",
+		"/var/www/zoomin/client/contactenos.html",
+		"/var/www/zoomin/server/publish.js",
+		"/var/www/zoomin/zoomin.css",
+		"/home/juandelacosa/programacion/meteor/todos/client/todos.js",
+		"/home/juandelacosa/programacion/meteor/leaderboard/.meteor/packages",
+		"/home/juandelacosa/programacion/meteor/leaderboard/.meteor/.gitignore",
+		"/var/www/enersinc/aplicacion/app/Config/core.php",
+		"/var/www/enersinc/aplicacion/app/Config/database.php",
+		"/var/www/sipex/branches/dev/app/config/core.php",
+		"/var/www/sipex/branches/dev/app/views/proyectos/admin_complementar_proyecto.ctp",
+		"/var/www/sipex/branches/dev/app/views/proyectos/complementar_proyecto.ctp",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/cursos_ejecucion_educontinua.js",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/cursos_ejecucion.js",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/cursos_convocados_educontinua.js",
+		"/var/www/sipex/branches/dev/app/controllers/proyectos_controller.php",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/cursos_inv_ext_fac.js",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/cursos_convocados.js",
+		"/var/www/sipex/branches/dev/app/config/database.php",
+		"/var/www/sipex/branches/dev/app/controllers/interesados_controller.php",
+		"/var/www/sipex/branches/dev/app/views/interesados/admin_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/admin_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/telemercaderista_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/telemercaderista_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/educontinua_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/educontinua_registra.ctp",
+		"/var/www/sipex/branches/dev/app/controllers/conferencistas_controller.php",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/admin_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/admin_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/telemercaderista_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/telemercaderista_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/educontinua_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/conferencistas/educontinua_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/educontinua_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/educontinua_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/telemercaderista_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/telemercaderista_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/admin_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/compradores/admin_registra.ctp",
+		"/var/www/sipex/branches/dev/app/controllers/compradores_controller.php",
+		"/var/www/sipex/branches/dev/app/config/sipex_bootstrap.php",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/investigacion_extension_facultad_convocados.js",
+		"/var/www/sipex/branches/dev/app/views/elements/help_icons_cursos_convocados_inv_ext_fac.ctp",
+		"/var/www/sipex/branches/dev/app/views/proyectos/investigacion_extension_facultad_cursos.ctp",
+		"/var/www/sipex/branches/dev/app/views/elements/help_icons_cursos_convocados.ctp",
+		"/var/www/sipex/branches/dev/app/views/proyectos/educontinua_cursos_convocados.ctp",
+		"/var/www/sipex/branches/dev/app/views/proyectos/telemercaderista_cursos_convocados.ctp",
+		"/var/www/sipex/branches/dev/app/views/proyectos/admin_cursos_convocados.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/admin_lista_ofertados.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/educontinua_lista_ofertados.ctp",
+		"/var/www/sipex/branches/dev/app/views/interesados/telemercaderista_lista_ofertados.ctp",
+		"/var/www/sipex/branches/dev/app/controllers/pagos_controller.php",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/admin_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/admin_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/educontinua_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/educontinua_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/telemercaderista_edita.ctp",
+		"/var/www/sipex/branches/dev/app/views/organizaciones/telemercaderista_registra.ctp",
+		"/var/www/sipex/branches/dev/app/views/contactos/admin_registra.ctp",
+		"/var/www/sipex/branches/dev/app/models/contacto.php",
+		"/var/www/sipex/branches/dev/app/webroot/js/controllers/contactos.js",
+		"/var/www/sipex/branches/dev/app/views/contactos/telemercaderista_lista_organizacion.ctp",
+		"/var/www/sipex/branches/dev/app/views/contactos/admin_lista_organizacion.ctp",
+		"/var/www/sipex/branches/dev/app/controllers/contactos_controller.php"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/previserd/aplicacion/app",
+			"/var/www/pueblo",
+			"/var/www/sipex/branches/dev/app",
+			"/var/www/imdc2/htmls/myapp/",
+			"/home/juandelacosa/Descargas/seelva",
+			"/var/www/imdc2/WebContent",
+			"",
+			"/var/www/imdc2/htmls/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DescripcionEmergencia",
+			"TipoEmergencia",
+			"descripcion_emergencia",
+			"tipo_emergencia",
+			"snippet",
+			"name",
+			"phone",
+			"ng",
+			"controller",
+			"overrides",
+			"navbar-inner",
+			"a",
+			"toSave",
+			"log",
+			"val",
+			"log",
+			"jQuery('.chzn-select-deselect')",
+			"one-fifth",
+			"updatest",
+			"render",
+			"updateStatus",
+			"		",
+			"updateSta",
+			"updateStatus",
+			"especialista_getCountCitas",
+			"user",
+			"User",
+			"user",
+			"especialista_getCountCitas",
+			"hide",
+			"chosen",
+			"|json",
+			"Grupo",
+			"jSorage",
+			"json",
+			"div",
+			"post_title",
+			"tab",
+			"tabs-1",
+			"wp_head",
+			"function add_action",
+			"jquery",
+			"wp_head",
+			"function wp_head",
+			"funciton wp_head",
+			"wp_head",
+			"wp_enqueue_script",
+			"home-highlights",
+			"slider-wrap",
+			"slider-wrap\n\n",
+			"masterhead\n",
+			"masterhead",
+			"header",
+			"masternav",
+			"#masternav",
+			"get_header",
+			"sess",
+			"menu_admin",
+			"tab",
+			"viewInfoWindowMarker",
+			"'));\n",
+			"loadMarkerMap",
+			"\">\n",
+			"viewInfoWindowMarker",
+			"loadMarkerMap",
+			"viewInfoWindowMarker",
+			"Session",
+			"viewInfoWindowMarker",
+			"loadMarkerMap",
+			"viewInfoWindowMarker",
+			"info_view",
+			"contáctenos",
+			"contac",
+			"titulo_lugar",
+			"pruebaLi",
+			"menu_lateral",
+			"viewInfoWindowMarker",
+			"'",
+			"\"",
+			"  + \"",
+			"viewInfoWindowMarker",
+			"addWindowInfo",
+			"loadDataTipoLugar",
+			"AddTipoLugar",
+			"loadDataTipoLugar",
+			"AddTipoLugar",
+			"loadDataTipoLugar",
+			"viewInfoWindowMarker",
+			"loadMarkerMap",
+			"viewInfoWindowMarker",
+			"required",
+			"categorias",
+			" \"</",
+			"addWindowInfo",
+			"viewInfoWindowMarker",
+			"categoria",
+			"'img'",
+			" /></",
+			"='img' ",
+			"'img'",
+			"viewInfoWindowMarker",
+			"draggable",
+			"load",
+			"modalContactenos",
+			"\" ",
+			"validate",
+			"saveMarker",
+			"newMarker",
+			"cont",
+			"add_marker",
+			"icon-supermarket",
+			"addMarker",
+			"add_tienda",
+			"saveMarker",
+			"TestMarker",
+			"newMarker",
+			"savePlace",
+			"addPlace",
+			"agregarLugar",
+			"addPlace",
+			"agregarLugar",
+			"map",
+			"currentMarker",
+			"agregarLugar",
+			"marker",
+			"agregarLugar",
+			"sub",
+			"addWindowInfo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"",
+			"categorias",
+			"savePlace",
+			"addPlace",
+			"name",
+			"educontinua",
+			"Comprador",
+			"compradores",
+			"comprador",
+			"compradores",
+			"Comprador",
+			"comprador",
+			"Comprador",
+			"OrgTipo",
+			"OrgDepartamento",
+			"OrgCiudad",
+			"OrgDireccion",
+			"OrgNombre",
+			"NIT",
+			"'OrganizacionIdentificacion', 'OrganizacionNombre', 'OrganizacionDireccion', 'OrganizacionDepartamento', 'OrganizacionCiudad', 'OrganizacionTipo'",
+			"OrganizacionIdentificacion",
+			"IdentificacionOrganizacion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 6228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6026,
+								6026
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1985.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/custom-map.js",
+					"settings":
+					{
+						"buffer_size": 1911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1521,
+								1521
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 627.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/controller.js",
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								433,
+								182
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/custom.css",
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								441,
+								441
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 65.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config/core",
+				"aplicacion/app/Config/core.php"
+			],
+			[
+				"contro/grupos",
+				"aplicacion/app/Controller/GruposController.php"
+			],
+			[
+				"view/grupo/edita",
+				"aplicacion/app/View/Grupos/admin_edita.tpl"
+			],
+			[
+				"web/css/custom",
+				"aplicacion/app/webroot/css/custom.css"
+			],
+			[
+				"view/grupos/edita",
+				"aplicacion/app/View/Grupos/admin_edita.tpl"
+			],
+			[
+				"web/js/salta",
+				"aplicacion/app/webroot/js/helpers/saltabilidad.js"
+			],
+			[
+				"view/consul/salta",
+				"aplicacion/app/View/Consultas/saltabilidad.tpl"
+			],
+			[
+				"web/js/hel/audiome",
+				"aplicacion/app/webroot/js/helpers/audiometria.js"
+			],
+			[
+				"view/consu/audiom",
+				"aplicacion/app/View/Consultas/audiometria.tpl"
+			],
+			[
+				"view/consulta/nutrici",
+				"aplicacion/app/View/Consultas/nutricion.tpl"
+			],
+			[
+				"web/js/help/nutri",
+				"aplicacion/app/webroot/js/helpers/nutricion.js"
+			],
+			[
+				"control/consultas",
+				"aplicacion/app/Controller/ConsultasController.php"
+			],
+			[
+				"confi/core",
+				"aplicacion/app/Config/core.php"
+			],
+			[
+				"compo/acl",
+				"aplicacion/app/Controller/Component/AclFilterComponent.php"
+			],
+			[
+				"contro/pages",
+				"aplicacion/app/Controller/PagesController.php"
+			],
+			[
+				"helpers/psicologia",
+				"aplicacion/app/webroot/js/helpers/psicologia.js"
+			],
+			[
+				"helpers/optometria",
+				"aplicacion/app/webroot/js/helpers/optometria.js"
+			],
+			[
+				"helpers/odontologia",
+				"aplicacion/app/webroot/js/helpers/odontologia.js"
+			],
+			[
+				"helpers/medicina_general",
+				"aplicacion/app/webroot/js/helpers/medicina_general.js"
+			],
+			[
+				"helpers/fonoaudiologia",
+				"aplicacion/app/webroot/js/helpers/fonoaudiologia.js"
+			],
+			[
+				"helpers/fisioterapia2",
+				"aplicacion/app/webroot/js/helpers/fisioterapia2.js"
+			],
+			[
+				"model/grupo",
+				"aplicacion/app/Model/Grupo.php"
+			],
+			[
+				"model/cita",
+				"aplicacion/app/Model/Cita.php"
+			],
+			[
+				"model/especia",
+				"aplicacion/app/Model/Especialista.php"
+			],
+			[
+				"model/especi",
+				"aplicacion/app/Model/Especialista.php"
+			],
+			[
+				"model/espec",
+				"aplicacion/app/Model/Especialidad.php"
+			],
+			[
+				"view/grupo/registra",
+				"aplicacion/app/View/Grupos/admin_registra.tpl"
+			],
+			[
+				"control/grupos",
+				"aplicacion/app/Controller/GruposController.php"
+			],
+			[
+				"zoo.htm",
+				"client/zoomin.html"
+			],
+			[
+				"contac",
+				"client/contactos.js"
+			],
+			[
+				"contacte",
+				"client/contactenos.html"
+			],
+			[
+				"core",
+				"Config/core.php"
+			],
+			[
+				"admin_comple",
+				"views/proyectos/admin_complementar_proyecto.ctp"
+			],
+			[
+				"view/proyecto/comp",
+				"views/proyectos/complementar_proyecto.ctp"
+			],
+			[
+				"web/js/con/curs",
+				"webroot/js/controllers/cursos_ejecucion_educontinua.js"
+			],
+			[
+				"web/js/con/cursos",
+				"webroot/js/controllers/cursos_convocados_educontinua.js"
+			],
+			[
+				"contro/proyect",
+				"controllers/proyectos_controller.php"
+			],
+			[
+				"web/js/con/cur_inv",
+				"webroot/js/controllers/cursos_inv_ext_fac.js"
+			],
+			[
+				"web/js/contro/curs",
+				"webroot/js/controllers/cursos_convocados.js"
+			],
+			[
+				"view/intere/educ",
+				"views/interesados/educontinua_registra.ctp"
+			],
+			[
+				"view/intere/educo",
+				"views/interesados/educontinua_edita.ctp"
+			],
+			[
+				"view/intere/tele",
+				"views/interesados/telemercaderista_registra.ctp"
+			],
+			[
+				"view/intere/admin",
+				"views/interesados/admin_registra.ctp"
+			],
+			[
+				"controller/intere",
+				"controllers/interesados_controller.php"
+			],
+			[
+				"view/confere/educo",
+				"views/conferencistas/educontinua_registra.ctp"
+			],
+			[
+				"view/confere/tele",
+				"views/conferencistas/telemercaderista_registra.ctp"
+			],
+			[
+				"view/confere/ad",
+				"views/conferencistas/admin_registra.ctp"
+			],
+			[
+				"contro/confere",
+				"controllers/conferencistas_controller.php"
+			],
+			[
+				"view/compra/educo",
+				"views/compradores/educontinua_edita.ctp"
+			],
+			[
+				"view/compra/edu",
+				"views/compradores/educontinua_registra.ctp"
+			],
+			[
+				"view/compra/edita",
+				"views/compradores/telemercaderista_edita.ctp"
+			],
+			[
+				"view/comprad/registra",
+				"views/compradores/telemercaderista_registra.ctp"
+			],
+			[
+				"boos",
+				"config/sipex_bootstrap.php"
+			],
+			[
+				"contro/compra",
+				"controllers/compradores_controller.php"
+			],
+			[
+				"view/compra/registra",
+				"views/compradores/admin_registra.ctp"
+			],
+			[
+				"view/ele/help_icons_cursos_convocados_inv_ext_fac",
+				"views/elements/help_icons_cursos_convocados_inv_ext_fac.ctp"
+			],
+			[
+				"view/ele/help_icons_cursos_convocados",
+				"views/elements/help_icons_cursos_convocados.ctp"
+			],
+			[
+				"view/inve_ex",
+				"views/proyectos/investigacion_extension_facultad_cursos.ctp"
+			],
+			[
+				"web/js/contr/inve",
+				"webroot/js/controllers/investigacion_extension_facultad_convocados.js"
+			],
+			[
+				"view/proyect/tele",
+				"views/proyectos/telemercaderista_cursos_convocados.ctp"
+			],
+			[
+				"view/proyecto/inves",
+				"views/proyectos/investigacion_extension_facultad_cursos.ctp"
+			],
+			[
+				"web/js/con/curso",
+				"webroot/js/controllers/cursos_convocados_educontinua.js"
+			],
+			[
+				"view/proye/edu",
+				"views/proyectos/educontinua_cursos_convocados.ctp"
+			],
+			[
+				"view/proyectotele",
+				"views/proyectos/telemercaderista_cursos_convocados.ctp"
+			],
+			[
+				"view/proyecto/cursos",
+				"views/proyectos/investigacion_extension_facultad_cursos.ctp"
+			],
+			[
+				"view/proyec/cursos",
+				"views/proyectos/admin_cursos_convocados.ctp"
+			],
+			[
+				"contro/proyecto",
+				"controllers/proyectos_controller.php"
+			],
+			[
+				"view/inter/oferta",
+				"views/interesados/telemercaderista_lista_ofertados.ctp"
+			],
+			[
+				"view/intere/lista_ofer",
+				"views/interesados/educontinua_lista_ofertados.ctp"
+			],
+			[
+				"view/intere/lista",
+				"views/interesados/admin_lista_ofertados.ctp"
+			],
+			[
+				"contro/intere",
+				"controllers/interesados_controller.php"
+			],
+			[
+				"contro/pagos",
+				"controllers/pagos_controller.php"
+			],
+			[
+				"view/conta/",
+				"views/contactos/admin_registra.ctp"
+			],
+			[
+				"view/orga",
+				"views/organizaciones/admin_registra.ctp"
+			],
+			[
+				"view/conta/edu",
+				"views/contactos/educontinua_lista_organizacion.ctp"
+			],
+			[
+				"view/conta/tele",
+				"views/contactos/telemercaderista_lista_organizacion.ctp"
+			],
+			[
+				"web/js/con/conta",
+				"webroot/js/controllers/contactos_organizacion.js"
+			],
+			[
+				"view/conta/ad",
+				"views/contactos/admin_lista_organizacion.ctp"
+			],
+			[
+				"web/js/con/con",
+				"webroot/js/controllers/contactos.js"
+			],
+			[
+				"view/conta/admin",
+				"views/contactos/admin_lista.ctp"
+			],
+			[
+				"contro/orga",
+				"controllers/organizaciones_controller.php"
+			],
+			[
+				"view/conta/educo",
+				"views/contactos/educontinua_edita.ctp"
+			],
+			[
+				"view/interes/",
+				"views/interesados/admin_registra.ctp"
+			],
+			[
+				"contro/contac",
+				"controllers/contactos_controller.php"
+			],
+			[
+				"mode/or",
+				"models/organizacion.php"
+			],
+			[
+				"model/tema",
+				"models/tema_interes_contacto.php"
+			],
+			[
+				"contacto",
+				"models/contacto.php"
+			],
+			[
+				"contro/fact",
+				"controllers/facturas_controller.php"
+			],
+			[
+				"contro/pago",
+				"controllers/pago_cursos_controller.php"
+			],
+			[
+				"contro/ods",
+				"controllers/ods_controller.php"
+			],
+			[
+				"contro/asisfina",
+				"controllers/asistencia_finales_controller.php"
+			],
+			[
+				"contro/asis",
+				"controllers/asistencias_controller.php"
+			],
+			[
+				"contro/proye",
+				"controllers/proyectos_controller.php"
+			],
+			[
+				"contro/devo",
+				"controllers/devoluciones_controller.php"
+			],
+			[
+				"rout",
+				"config/routes.php"
+			],
+			[
+				"plugin/acl/contro/compo",
+				"plugins/acl/controllers/components/acl_filter.php"
+			],
+			[
+				"controller/pagos",
+				"controllers/pagos_controller.php"
+			],
+			[
+				"ele/sideeduc",
+				"views/elements/sidebar_educontinua.ctp"
+			],
+			[
+				"controler/pages",
+				"controllers/pages_controller.php"
+			],
+			[
+				"ele/menued",
+				"views/elements/menu_educontinua.ctp"
+			],
+			[
+				"layo/edu",
+				"views/layouts/educontinua.ctp"
+			],
+			[
+				"layout/admi",
+				"views/layouts/admin.ctp"
+			],
+			[
+				"con/conta",
+				"controllers/contactos_controller.php"
+			],
+			[
+				"contro/seguimientor",
+				"controllers/seguimiento_organizaciones_controller.php"
+			],
+			[
+				"contro/organizacio",
+				"controllers/organizaciones_controller.php"
+			],
+			[
+				"controlle/tipo",
+				"controllers/tipo_organizaciones_controller.php"
+			],
+			[
+				"contro/se",
+				"controllers/sector_economicos_controller.php"
+			],
+			[
+				"contro/sec",
+				"controllers/sector_economicos_controller.php"
+			],
+			[
+				"pages",
+				"controllers/pages_controller.php"
+			],
+			[
+				"controlle/temas",
+				"controllers/tema_interes_controller.php"
+			],
+			[
+				"controller/medio",
+				"controllers/medio_comunicaciones_controller.php"
+			],
+			[
+				"rou",
+				"config/routes.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"web/js/con/cur",
+				"webroot/js/controllers/cursos_convocados.js"
+			],
+			[
+				"view/cursos",
+				"views/proyectos/admin_cursos_convocados.ctp"
+			],
+			[
+				"view/inte",
+				"views/interesados/admin_lista_curso.ctp"
+			],
+			[
+				"view/confere",
+				"views/conferencistas/admin_lista_curso.ctp"
+			],
+			[
+				"web/js/intere",
+				"webroot/js/controllers/interesados.js"
+			],
+			[
+				"web/js/contro/con",
+				"webroot/js/controllers/conferencistas.js"
+			],
+			[
+				"view/confere/li",
+				"views/conferencistas/admin_lista.ctp"
+			],
+			[
+				"contro/intre",
+				"controllers/interesados_controller.php"
+			],
+			[
+				"model/con",
+				"models/conferencistas_proyecto.php"
+			],
+			[
+				"js/h",
+				"webroot/js/hache.scripts.js"
+			],
+			[
+				"view/compra",
+				"views/compradores/admin_registra.ctp"
+			],
+			[
+				"view/intere",
+				"views/interesados/admin_registra.ctp"
+			],
+			[
+				"mode/compra",
+				"models/comprador.php"
+			],
+			[
+				"model/intre",
+				"models/interesado.php"
+			],
+			[
+				"web/js/con/com",
+				"webroot/js/controllers/compradores.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true
+}

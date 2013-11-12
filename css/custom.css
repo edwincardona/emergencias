@@ -1,0 +1,49 @@
+.content-map{
+	padding: 0px 2px;
+	margin: 0px;
+	height: 90%;
+	width: 100%;
+	position: relative;
+}
+
+
+.navbar-emergencias{
+	padding: 0px;
+	margin: 0px;
+}
+
+#btn-current-position{
+	position:absolute;
+	top:5px;
+	right: 10px;
+	cursor: pointer;
+	background: white;
+}
+
+#sidebar-left{
+	position: absolute;
+	top:0px;
+	left: 0px;
+}
+
+#tab-estados-menu{
+	background: white;
+}
+
+.tab-content{
+	margin: 5px 2px;
+
+}
+
+#btn-panico{
+	position:absolute;
+	left:45%;
+	bottom: 10px;
+}
+
+
+html, body, #map-canvas{
+	height: 100%;
+    margin: 0px;
+	padding: 0px
+}

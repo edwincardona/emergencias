@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html ng-app="emergenciasApp">
+  <head >
+    <title>Sistema Anteción temprana</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.0.0/css/bootstrap.css" rel="stylesheet">
+    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/bootstrap-3.0.0/assets/js/jquery.js"></script>
+    <script src="js/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
+    <script src="js/angular.min.js"></script>
+    <script src="js/controller.js"></script>
+
+    <!--
+    Include the maps javascript with sensor=true because this code is using a
+    sensor (a GPS locator) to determine the user's location.
+    See: https://developers.google.com/maps/documentation/javascript/tutorial#Loading_the_Maps_API
+    -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=true"></script>
+    <script src="js/custom-map.js"></script>
+
+    <script>
+      var map;
+      google.maps.event.addDomListener(window, 'load', initialize);
+      jQuery(document).ready(function (){
+        jQuery("#btn-current-position").on("click", function(){
+          //lleva a la position resiente del gps
+          currentPosition(map);
+        });
+      });
+    </script>
+  </head>
+  <body ng-controller="EmergenciasListCtrl">
+
+    <!-- Static navbar -->
+    <div class="navbar navbar-default navbar-static-top navbar-emergencias">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project name</a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Dropdown <b class="caret"></b></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Action</a></li>
+                <li><a href="#">Another action</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Nav header</li>
+                <li><a href="#">Separated link</a></li>
+                <li><a href="#">One more separated link</a></li>
+              </ul>
+            </li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="../navbar/">Default</a></li>
+            <li class="active"><a href="./">Static top</a></li>
+            <li><a href="../navbar-fixed-top/">Fixed top</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+    <!-- Contenedor del mapa -->
+    <div class="container content-map">
+          <!-- google maps -->
+          <div id="map-canvas"></div>
+          <!-- boton de posicion a partir del gps -->
+          <div id="btn-current-position"><span class="glyphicon glyphicon-screenshot"></span></div>
+          <!-- Contenedor de todas las alertas -->
+          <div id="sidebar-left" class="float-map">
+            <ul id="tab-estados-menu" class="nav nav-tabs nav-stacked">
+              <li><a href="#grave" data-toggle="tab">Grave</a></li>
+              <li><a href="#leve" data-toggle="tab">Leve</a></li>
+              <li><a href="#controlada" data-toggle="tab">Controlada</a></li>
+            </ul>
+            <div id="tab-estados-content" class="tab-content">
+              <div id="grave" class="tab-pane fade">
+                <h4>Contenido de grave</h4>
+                <ul>
+                  <li ng-repeat="emergencia in emergencias">
+                    {{emergencia.tipo}}
+                    <p>{{emergencia.descripcion}}</p>
+                  </li>
+                </ul>
+              </div>
+              <div id="leve" class="tab-pane fade">Contenido de leve</div>
+              <div id="controlada" class="tab-pane fade">Contenido de controlado</div>
+            </div>
+          </div>
+          <!-- Fin contenedor de alertas -->
+          <!-- Boton de panico -->
+          <div id="btn-panico"><button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#ModalAddEmergencia">S.O.S</button></div>
+
+
+    </div> <!-- /container -->
+    <!-- Fin contenedor del mapa -->
+
+    <!-- contenedor modal crear emergencia -->
+    <div class="modal fade" id="ModalAddEmergencia" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+            <h4 class="modal-title" id="myModalLabel">Nueva Emergencia</h4>
+          </div>
+          <div class="modal-body">
+            <div class="form-group">
+              <label for="Tipo">Tipo:</label>
+              <input id="Tipo" class="form-control" ng-model="tipo" placeholder="Tipo Emergencia"/>
+            </div>
+            <div class="form-group">
+              <label for="Descripcion">Descripción:</label>
+              <input id="Descripcion" class="form-control" ng-model="descripcion" placeholder="Descrición de la emergencia"/>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Cancelar</button>
+            <button type="button" class="btn btn-primary" ng-click="guardarEmergencia(tipo, descripcion)">Guardar</button>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+    <!-- Fin Modal crear emergencia -->
+
+  </body>
+</html>

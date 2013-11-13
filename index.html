@@ -13,7 +13,9 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/bootstrap-3.0.0/assets/js/jquery.js"></script>
     <script src="js/bootstrap-3.0.0/dist/js/bootstrap.min.js"></script>
-    <script src="js/angular.min.js"></script>
+    <script src="js/angular.js"></script>
+    <script src="js/angular-resource.js"></script>
+    <script src="js/mongolab.js"></script>
     <script src="js/controller.js"></script>
 
     <!--
@@ -35,7 +37,7 @@
       });
     </script>
   </head>
-  <body ng-controller="EmergenciasListCtrl">
+  <body ng-controller="EventosListCtrl">
 
     <!-- Static navbar -->
     <div class="navbar navbar-default navbar-static-top navbar-emergencias">
@@ -92,9 +94,9 @@
               <div id="grave" class="tab-pane fade">
                 <h4>Contenido de grave</h4>
                 <ul>
-                  <li ng-repeat="emergencia in emergencias">
-                    {{emergencia.tipo}}
-                    <p>{{emergencia.descripcion}}</p>
+                  <li ng-repeat="evento in eventos">
+                    {{evento.tipo}}
+                    <p>{{evento.descripcion}}</p>
                   </li>
                 </ul>
               </div>
@@ -105,6 +107,7 @@
           <!-- Fin contenedor de alertas -->
           <!-- Boton de panico -->
           <div id="btn-panico"><button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#ModalAddEmergencia">S.O.S</button></div>
+          <div id="btn-eventos"><button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#ModalAddEventos" ng-click="getEventos()">Eventos</button></div>
 
 
     </div> <!-- /container -->
